@@ -1,3 +1,34 @@
+# 🦸‍♂️ Projeto: vdt-season1-marvel-api-1challenge
+
+🔗 Repositório público: [viniciuscarneironascimento/vdt-season1-marvel-api-1](https://github.com/viniciuscarneironascimento/vdt-season1-marvel-api-1)
+
+---
+
+## 📝 Descrição
+
+Repositório do projeto desenvolvido no curso da **QAcademy**, ministrado pelo instrutor **Fernando Papito**, com foco em **automação de testes de API utilizando Cypress**.
+
+---
+
+## 🚀 Resultados Alcançados
+
+- 🛠️ **Estruturação completa do projeto de automação de testes de API com Cypress**  
+  Configurei o ambiente do zero, incluindo instalação de dependências, organização de pastas e definição de boas práticas para testes automatizados.
+
+- 🔁 **Criação de comandos customizados**  
+  Implementei comandos personalizados no Cypress para promover **reutilização de código**, aumentar a **legibilidade** e facilitar a **manutenção** dos testes.
+
+- 🧪 **Desenvolvimento de testes de API baseados nas regras de negócio**  
+  Automatizei cenários que abrangem os principais métodos HTTP:
+  - `GET`: Validação de buscas e listagens;
+  - `POST`: Criação de novos registros e verificação das respostas;
+  - `DELETE`: Remoção de recursos e confirmação da exclusão.
+
+---
+
+
+
+
 
 
 # Viver de Teste 1.ª Temporada
