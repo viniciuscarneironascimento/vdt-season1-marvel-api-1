@@ -1,4 +1,4 @@
-# 🦸‍♂️ Projeto: vdt-season1-marvel-api-1challenge
+# 🦸‍♂️ Projeto: vdt-season1-marvel-api-1
 
 🔗 Repositório público: [viniciuscarneironascimento/vdt-season1-marvel-api-1](https://github.com/viniciuscarneironascimento/vdt-season1-marvel-api-1)
 
